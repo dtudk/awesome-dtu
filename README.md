@@ -1,4 +1,4 @@
-<h1> <a href="https://www.dtu.dk"><img src="assets/DTU_Red_RGB.png" alt="DTU logo" width="300"/></a> </h1>
+<h1> <a href="https://www.dtu.dk"><img src="assets/DTU_Red_RGB.png" alt="DTU logo" height="200"/></a> </h1>
 
 > A curated list of awesome DTU contributed codes, libraries, software and resources.
 
