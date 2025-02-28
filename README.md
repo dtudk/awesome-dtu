@@ -12,4 +12,4 @@ from DTU affiliated research projects or persons.
 - [ase](https://gitlab.com/ase/ase) - Atomic simulation environment in Python for working with atoms
 - [gpaw](https://gitlab.com/gpaw/gpaw) - a DFT code within the projector-augmented wave method
 - [sisl](https://github.com/zerothi/sisl) - a post-processing Python framework for DFT codes and tight-binding calculations
-
+- [MagTense](https://github.com/cmt-dtu-energy/MagTense) - a magnetostatic and a micromagnetism calculation framework
